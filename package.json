@@ -1,0 +1,7 @@
+{
+  "name": "wserver",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
